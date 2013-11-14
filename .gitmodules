@@ -1,0 +1,6 @@
+[submodule "ers-node"]
+	path = ers-node
+	url = https://github.com/ers-devs/ers-node.git
+[submodule "ers-aggregator"]
+	path = ers-aggregator
+	url = https://github.com/ers-devs/ers-aggregator.git
